@@ -5,6 +5,8 @@
 
 Паперовий варіант книги можна придбати у видавництві [Ліра-К](https://lira-k.com.ua/books/promislov%d1%96st/rozroblennja-ljudyno-mashynnyh-interfejsiv-ta-system-zbyrannja-danyh-z-vykorystannjam-programnyh-zasobiv-scada-hmi.html).
 
+Лабораторні роботи та лекції по курсу доступні в репозиторії дисципліни за [цим посиланням](https://pupenasan.github.io/hmi/) . 
+
 Усі побажання та зауваження пишіть [в цій темі](https://github.com/pupenasan/hmibook/issues/1).
 
 ![](media/toc.jpg)
